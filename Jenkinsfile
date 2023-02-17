@@ -10,7 +10,7 @@ pipeline{
         }
         stage('Test'){
             steps{
-                sh './jenkinstestu'
+                sh './jenkinstest'
                 echo 'Test successful'
             }
         }
