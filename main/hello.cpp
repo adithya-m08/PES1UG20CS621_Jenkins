@@ -8,6 +8,7 @@ int main(void)
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "Adithya M\n";
-  cout <<"Task 3 added";
+  cout << "Task 3 added";
+  cout << "Task 4 added";
   return 0;
 }
